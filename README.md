@@ -9,6 +9,7 @@ This Milky Way has a mass of 21.5g. We start with the assumption that the other 
 ## Initial Reading:
 
 * Published version of the Orphan stream paper - differs slightly from original arXiv version
+
 Hendel et al. (2018), MNRAS, 479, 570 https://ui.adsabs.harvard.edu/#abs/2018MNRAS.479..570H/abstract
 
 
