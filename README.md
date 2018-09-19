@@ -15,7 +15,9 @@ Hogg, Bovy & Lang (2010), arXiv:1008.4686 https://ui.adsabs.harvard.edu/#abs/201
 * RR Lyrae stars as standard candles in the Gaia Data Release 2 Era:  
 Muraveva et al. (2018), MNRAS, 481, 1195 https://ui.adsabs.harvard.edu/#abs/2018MNRAS.481.1195M/abstract  
 This paper looks at *WISE* data rather than *Spitzer*, but the W1 band is very similar to the *Spitzer* [3.6] band.
-* The Geometry of the Sagittarius Stream from Pan-STARRS1 3\pi RR Lyrae:  
+* The Geometry of the Sagittarius Stream from Pan-STARRS1 3π RR Lyrae:  
+Hernitschek et al. (2017), ApJ, 850, 96 https://ui.adsabs.harvard.edu/#abs/2017ApJ...850...96H/abstract
+* 
 
 
 
